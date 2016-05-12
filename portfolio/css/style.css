@@ -1,0 +1,20 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: grey;
+	font-weight: 400;
+	font-size: 16px;
+}
+.text-thin {
+	font-weight: 200;
+}
+.title-super {
+	font-size: 60px;
+}
+.logo {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.featured {
+	margin-left: 30px;
+}
